@@ -1,7 +1,10 @@
 How to use:
+
 1- create an environment with Prerequisites
+
 You can use virtualenv package. An easy-to-use guide is available here:
 https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/creating-a-virtual-environment
+
 or you can use these commands:
 Windows:
 ```
@@ -56,6 +59,7 @@ Windos CMD:
 python classifier.py > results.txt
 ```
 Windows Explorer:
+
 Execute the "runThisOnWindows.bat" file.
 
 
