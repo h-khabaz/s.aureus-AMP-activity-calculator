@@ -6,6 +6,7 @@ You can use virtualenv package. An easy-to-use guide is available here:
 https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/creating-a-virtual-environment
 
 or you can use these commands:
+
 Windows:
 ```
 py -m pip install --user virtualenv
@@ -28,7 +29,8 @@ Unix:
 python3 -m venv env
 ```
 
-env is the name of the folder/environment
+"env" is the name of the folder/environment.
+
 activate the new environment with:
 
 Windows
